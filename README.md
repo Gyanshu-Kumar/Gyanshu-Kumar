@@ -25,8 +25,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/@gyanshusinK"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@gyanshusinK" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyanshu152&show_icons=true&locale=en&layout=compact" alt="gyanshu152" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyanshu-kumar&show_icons=true&locale=en&layout=compact" alt="gyanshu-kumar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gyanshu152&show_icons=true&locale=en" alt="gyanshu152" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gyanshu-kumar&show_icons=true&locale=en" alt="gyanshu-kumar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyanshu152&" alt="gyanshu152" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyanshu-kumar&" alt="gyanshu-kumar" /></p>
