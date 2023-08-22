@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanshu-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="gyanshu-kumar" /> </p>
 
-- 🔭 I’m currently working on **My Portfolio Website**
-
 - 🌱 I’m currently learning **C++,Python, Web Development**
 
 - 💬 Ask me about **Software, Web Development.**
