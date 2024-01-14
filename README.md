@@ -5,6 +5,7 @@
 ###
 
 <h1 align="center">hey there 👋 I am Gyanshu Kumar</h1>
+<h2 align="center">A Passionate Software Developer in India</h2>
 
 ###
 
